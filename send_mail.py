@@ -1,4 +1,3 @@
-#smtp and ssl are network protocols used when connecting to servers.
 import smtplib, ssl  
 class send_mail:
         
